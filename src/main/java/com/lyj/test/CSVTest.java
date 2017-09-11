@@ -449,10 +449,6 @@ public class CSVTest {
 		System.out.println("省市txt路径："+args[2]);
 		
 		CSVTest csvTest = new CSVTest();
-		/*String csvpath = "C:/Users/Administrator/Desktop/知因-龙宇佳/NLP测试/特征提取/特征提取/hn-groupcompanyinfo.csv";
-		String txtpath = "C:/Users/Administrator/Desktop/知因-龙宇佳/NLP测试/特征提取/hn.csv";
-		String Shengshipath = "C:/Users/Administrator/Desktop/知因-龙宇佳/NLP测试/特征提取/特征提取/省市.txt";*/
-		// csvTest.ReadCsv("C:/Users/Administrator/Desktop/知因-龙宇佳/NLP测试/特征提取/特征提取/全国系龙头.csv");
 		
 		String csvpath = args[0];
 		String txtpath = args[1];
